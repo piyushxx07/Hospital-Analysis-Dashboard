@@ -235,7 +235,7 @@ The dashboard follows a relational data model connecting patients, doctors, appo
 The optimized model enables accurate KPI calculations, faster dashboard performance, and seamless cross-filtering between reports.
 
 <p align="center">
-<img src="Images/Model.png" width="95%">
+<img src="Images/DataModel.png" width="95%">
 </p>
 
 ---
