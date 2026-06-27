@@ -76,11 +76,6 @@ The dashboard is built using **15+ Microsoft Excel (.xlsx)** files representing 
 - ⭐ Satisfaction Score
 - 🔪 Surgery
 
-### Dataset Preview
-
-![Dataset](Images/Dataset.png)
-
----
 
 # 🧹 Data Preparation
 
@@ -177,7 +172,6 @@ Hospital-Analytics-Dashboard
 │   ├── Doctor.png
 │   ├── Hospital.png
 │   ├── Finance.png
-│   ├── Dataset.png
 │   └── DataModel.png
 │
 └── README.md
