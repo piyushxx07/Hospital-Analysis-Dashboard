@@ -201,11 +201,6 @@ The dashboard is built using multiple **Microsoft Excel (.xlsx)** files represen
 
 ---
 
-## 📸 Dataset Preview
-
-<p align="center">
-<img src="Images/Dataset.png" width="95%">
-</p>
 
 ---
 
